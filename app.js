@@ -4,6 +4,17 @@ const gscore_servers = [
     // 'ws://可以添加多个ws后端地址/ws',
 ];
 
+
+
+
+
+/*
+ *
+ * 下面开始是shit山
+ *
+ */
+
+
 const { Wcferry } = require('@zippybee/wechatcore');
 const WebSocket = require('ws');
 const fs = require("fs");

@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"@zippybee/wechatcore": "^3.0.0",
-		"ws": "^8.18.1"
+		"@zippybee/wechatcore": "3.0.0",
+		"ws": "8.18.1"
 	}
 }
