@@ -1,9 +1,18 @@
+## WCF<=> GSCore 转换器
+
 ### 下载对应版本WX
 
 [大陆镜像](https://blog.minigg.cn/g/92/)
 
 [Github](https://github.com/MiniGrayGay/wcf_gscore/releases/latest)
 
+（如无特殊需求建议使用新版，如需兼容旧版VX客户端可安装对应需要的@zippybee/wechatcore的版本）
+
+| @zippybee/wechatcore版本 | WeChatFerry依赖版本 | 对应可用微信版本 |
+|:------------------------:|:-------------------:|:---------------:|
+| v3.1.22                   | v39.5.x              | 3.9.12.51        |
+| v3.1.18                   | v39.4.x              | 3.9.12.17        |
+| v3.0.6                    | v39.3.x              | 3.9.11.25        |
 
 
 ### 安装[pnpm](https://pnpm.io/zh/installation)
