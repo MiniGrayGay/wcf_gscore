@@ -35,3 +35,6 @@ pnpm i
 ```sh
 node app.js
 ```
+
+[wcferry-node](https://github.com/dr-forget/wcferry-node/)
+[WeChatFerry](https://github.com/lich0821/WeChatFerry/)
